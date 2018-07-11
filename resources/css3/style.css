@@ -38,6 +38,14 @@ section {
     font-size: 45px;
 }
 
+#quote1 {
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 300;
+    padding-top: 180px;
+}
+
 .header-img {
     background-image: url(images/img1.jpg);
     background-image: url(images/img1.jpg);
@@ -45,7 +53,7 @@ section {
     background-position: top;
     background-size: cover;
     background-attachment: fixed;
-    height: 95vh;
+    height: 100vh;
 }
 
 /* ------------------------------------------------------------------- */
